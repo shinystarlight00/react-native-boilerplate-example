@@ -16,7 +16,7 @@ export default function Feed() {
   if (isError) {
     return (
       <View>
-        <Text> Error Loading data </Text>
+        <Text> Error  Loading  data </Text>
       </View>
     );
   }
